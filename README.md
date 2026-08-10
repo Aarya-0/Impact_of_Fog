@@ -8,7 +8,7 @@ captures from the RWU dataset.
 
 The raw sensor data is **not included** in this repository. It was captured on
 Hochschule Ravensburg-Weingarten campus premises and contains identifiable
-pedestrians, so it cannot be published under GDPR. See
+pedestrians, so it is not published. See
 [`docs/dataset_note.md`](docs/dataset_note.md) for the expected local folder
 structure.
 
