@@ -4,7 +4,7 @@ The raw point-cloud data used in this analysis (`CBuilding/`, `ParkingSlot/`)
 is **not included** in this repository.
 
 It was captured on the Hochschule Ravensburg-Weingarten campus and includes
-identifiable pedestrians, so it cannot be published publicly under GDPR.
+identifiable pedestrians, so it was not published.
 
 ## Expected local structure
 
