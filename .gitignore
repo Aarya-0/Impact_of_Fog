@@ -1,0 +1,15 @@
+# Raw sensor data - NOT published (privacy: identifiable pedestrians on campus)
+CBuilding/
+ParkingSlot/
+*.csv
+*.bin
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+src/
